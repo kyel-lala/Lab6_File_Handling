@@ -1,0 +1,5 @@
+Student: Lalatag
+Student ID: TUPM-26-7887
+Seed Digit: 7
+ID Sum: 38
+Verification Value: 273

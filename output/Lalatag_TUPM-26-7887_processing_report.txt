@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last Name: Lalatag
+Student ID: TUPM-26-7887
+Seed Digit: 7
+ID Sum: 38
+Verification Value: 273
+Dataset Sample Size: 88
+Valid Records: 88
+Average Global Active Power: 3.864
+JSON File: Lalatag_TUPM-26-7887_records.json
+Backup File Lalatag_TUPM-26-7887_records.csv
