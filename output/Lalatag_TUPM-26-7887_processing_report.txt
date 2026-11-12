@@ -6,7 +6,7 @@ Seed Digit: 7
 ID Sum: 38
 Verification Value: 273
 Dataset Sample Size: 88
-Valid Records: 88
-Average Global Active Power: 3.864
+Valid Records: 39
+Average Global Active Power: 4.108
 JSON File: Lalatag_TUPM-26-7887_records.json
 Backup File Lalatag_TUPM-26-7887_records.csv
